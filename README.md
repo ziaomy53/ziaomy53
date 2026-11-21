@@ -2,5 +2,5 @@
 <p align="center"><img src="cards/hero.svg" width="100%" alt="Archana A N: I build and deploy machine learning and deep learning models, from raw data to real-time Flask APIs."></p>
 <p align="center"><a href="https://linkedin.com/in/archana-a-n-954361352"><img src="cards/tile-1.svg" width="32.5%" alt="LinkedIn"></a><a href="mailto:archanaan05@gmail.com"><img src="cards/tile-2.svg" width="32.5%" alt="Email"></a><a href="https://ziaomy53.github.io/portfolio/"><img src="cards/tile-3.svg" width="32.5%" alt="Portfolio"></a></p>
 <p align="center"><img src="cards/activity.svg" width="100%" alt="Contribution activity by month"></p>
-<p align="center"><a href="https://github.com/ziaomy53/portfolio"><img src="cards/repo-portfolio.svg" width="100%" alt="ziaomy53/portfolio"></a></p>
+<p align="center"><a href="https://ziaomy53.github.io/portfolio/"><img src="cards/repo-portfolio.svg" width="100%" alt="ziaomy53/portfolio"></a></p>
 <p align="center"><img src="cards/graph.svg" width="100%" alt="Contribution graph"></p>
