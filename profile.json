@@ -1,0 +1,16 @@
+{
+  "login": "ziaomy53",
+  "name": "Archana A N",
+  "eyebrow": "AI/ML Intern · Machine Learning & Deep Learning",
+  "tagline": "I build and deploy machine learning and deep learning models, from raw data to real-time Flask APIs.",
+  "status": "Open to AI/ML internships",
+  "portrait": null,
+  "tiles": [
+    {"label": "LinkedIn", "sub": "archana-a-n", "url": "https://linkedin.com/in/archana-a-n-954361352", "icon": "linkedin"},
+    {"label": "Email", "sub": "archanaan05@gmail.com", "url": "mailto:archanaan05@gmail.com", "icon": "mail"},
+    {"label": "Portfolio", "sub": "ziaomy53.github.io/portfolio", "url": "https://ziaomy53.github.io/portfolio/", "icon": "globe"}
+  ],
+  "featured": [
+    {"repo": "ziaomy53/portfolio"}
+  ]
+}
