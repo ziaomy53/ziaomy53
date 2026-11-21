@@ -473,7 +473,7 @@ def layout_html(P, repos, prefix):
     out.append(f'<p align="center"><img src="{prefix}activity.svg" width="100%" alt="Contribution activity by month"></p>')
     for f in repos:
         n = f["repo"].split("/")[1]
-        out.append(f'<p align="center"><a href="https://github.com/{esc(f["repo"])}"><img src="{prefix}repo-{n}.svg" width="100%" alt="{esc(f["repo"])}"></a></p>')
+        out.append(f'<p align="center"><a href="{esc(f.get("link") or "https://github.com/" + f["repo"])}"><img src="{prefix}repo-{n}.svg" width="100%" alt="{esc(f["repo"])}"></a></p>')
     out.append(f'<p align="center"><img src="{prefix}graph.svg" width="100%" alt="Contribution graph"></p>')
     return "\n".join(out) + "\n"
 
