@@ -11,6 +11,6 @@
     {"label": "Portfolio", "sub": "ziaomy53.github.io/portfolio", "url": "https://ziaomy53.github.io/portfolio/", "icon": "globe"}
   ],
   "featured": [
-    {"repo": "ziaomy53/portfolio", "description": "My personal portfolio website."}
+    {"repo": "ziaomy53/portfolio", "description": "My personal portfolio website.", "link": "https://ziaomy53.github.io/portfolio/"}
   ]
 }
